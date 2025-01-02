@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Victor Bonilha Venturini 🌎 ✌️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 <!--
 **Bonilhajvv/Bonilhajvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
