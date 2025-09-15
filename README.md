@@ -9,12 +9,6 @@ Acesse meu Linkedin [Clicando aqui](https://www.linkedin.com/in/jo%C3%A3o-victor
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-
-## GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bonilhajvv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bonilhajvv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
-</div>
 <!--
 **Bonilhajvv/Bonilhajvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
