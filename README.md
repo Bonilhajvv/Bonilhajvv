@@ -11,6 +11,10 @@ Acesse meu Linkedin [Clicando aqui](https://www.linkedin.com/in/jo%C3%A3o-victor
 </div>
 <!--
 **Bonilhajvv/Bonilhajvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bonilhajvv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bonilhajvv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 Here are some ideas to get you started:
 
